@@ -13,7 +13,7 @@ def getPayRate():
 
 def grossPay(payRate,grossPay):
     grossPay = payRate * grossPay
-    print("Your pay is",grossPay)
+    print("Your gross pay is",grossPay)
 
 #Execute
 main()
