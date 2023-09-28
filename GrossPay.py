@@ -1,3 +1,4 @@
+#Hours,payrate,and gross pay
 def main():
     hours = getHours()
     payRate = getPayRate()
